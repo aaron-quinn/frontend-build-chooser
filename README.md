@@ -1,5 +1,5 @@
 
-# Frontend Build System
+# Frontend Build System For Multiple Projects
 
 The frontend build system is a way to easily bundle JS and SCSS/CSS files into a single file package.
 
