@@ -1,7 +1,7 @@
 
 # Frontend Build System For Multiple Projects
 
-The frontend build system is a way to easily bundle JS and SCSS/CSS files into a single file package.
+This frontend build system is a way to easily bundle JS and SCSS/CSS files into a single file package.
 
 It's all powered by esbuild. Plus there's a project chooser on the command line using Chalk to make it easy to use.
 
